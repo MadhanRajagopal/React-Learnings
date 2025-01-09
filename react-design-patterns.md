@@ -1,7 +1,4 @@
 # React Design Patterns
-
-This is a collection of the most important design patterns to use in React. Made by [Cosden Solutions](https://cosden.solutions).
-
 ## 1. Single Responsibility Principle
 
 Your components should have only one responsibility. They should only do "one thing" and delegate everything else to other components. Here's an example of a component that has too many responsibilities:
